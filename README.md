@@ -1,2 +1,3 @@
 # portfolio
-My website readme, https://dragones.it/
+My personal portfolio
+https://dragones.it/
